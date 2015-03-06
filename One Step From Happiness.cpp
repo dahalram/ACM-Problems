@@ -1,6 +1,10 @@
 /*Problem number 1493
 */
 
+/*
+Check if the +1 and -1 plus the input values numbers have their sum of first three digits equal to the sum of last three. 
+
+*/
 #include <iostream>
 
 using namespace std;
