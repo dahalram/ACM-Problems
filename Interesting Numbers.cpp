@@ -32,6 +32,9 @@ int main(){
 }
 
 //The hack-y way of solving this problem is here.
+
+//The idea is just to print the desired output according to the input. 
+//It turns out that there is a nice pattern for the output when input is > 2.
 /*
 #include <cstdio>
 
