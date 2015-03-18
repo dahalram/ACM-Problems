@@ -1,4 +1,4 @@
-//Problem number 1585
+#Problem number 1585
 
 a=raw_input()
 a=int(a)
